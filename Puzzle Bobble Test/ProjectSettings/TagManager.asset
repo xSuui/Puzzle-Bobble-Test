@@ -3,15 +3,24 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bola
+  - BolaTabuleiro
+  - BolaAtirada
+  - BolaMarrom
+  - BolaBranca
+  - BolaAmarela
+  - BolaVermelha
+  - BolaAzul
+  - BolaVerde
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - layerTabuleiro
   - Water
   - UI
-  - 
+  - BolaAtirada
   - 
   - 
   - 
